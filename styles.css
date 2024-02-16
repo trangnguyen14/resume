@@ -29,6 +29,11 @@ nav ul li a {
     color: #333;
 }
 
+nav ul li a:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
 main {
     margin-bottom: 20px;
 }
@@ -41,7 +46,8 @@ footer {
 
 img {
     max-width: 200px;
-    border-radius: 50%;
+    height: auto;
+    border-radius: 10px; 
 }
 
 ul {
