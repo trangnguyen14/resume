@@ -35,7 +35,7 @@ nav ul li a:hover {
 }
 
 nav ul li a:visited {
-    color: purple;
+    color: purple; /* Color for visited links */
 }
 
 main {
@@ -51,6 +51,7 @@ footer {
 img {
     max-width: 250px;
     height: auto;
+
 }
 
 ul {
