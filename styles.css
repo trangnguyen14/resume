@@ -34,6 +34,10 @@ nav ul li a:hover {
     color: blue;
 }
 
+nav ul li a:visited {
+    color: purple;
+}
+
 main {
     margin-bottom: 20px;
 }
@@ -45,9 +49,8 @@ footer {
 }
 
 img {
-    max-width: 200px;
+    max-width: 250px;
     height: auto;
-    border-radius: 10px; 
 }
 
 ul {
